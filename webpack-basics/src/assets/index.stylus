@@ -1,0 +1,13 @@
+@import './test.stylus'
+
+.box 
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  transform: translate(200px, 100px);
+  animation: 0ms;
+
+.img 
+  width: 100px
+  height 100px
+  box-shadow: 0 0 20px red

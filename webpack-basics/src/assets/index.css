@@ -1,0 +1,7 @@
+.box {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  transform: translate(100px, 100px);
+  animation: 0ms;
+}
